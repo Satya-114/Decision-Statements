@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Decision statements1/1.0.0": {
+        "runtime": {
+          "Decision statements1.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Decision statements1/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
