@@ -1,0 +1,12 @@
+C:\Users\Satya Maddila\source\repos\Decision statements 3\obj\Debug\netcoreapp3.1\Decision statements 3.AssemblyInfoInputs.cache
+C:\Users\Satya Maddila\source\repos\Decision statements 3\obj\Debug\netcoreapp3.1\Decision statements 3.AssemblyInfo.cs
+C:\Users\Satya Maddila\source\repos\Decision statements 3\obj\Debug\netcoreapp3.1\Decision statements 3.csproj.CoreCompileInputs.cache
+C:\Users\Satya Maddila\source\repos\Decision statements 3\bin\Debug\netcoreapp3.1\Decision statements 3.exe
+C:\Users\Satya Maddila\source\repos\Decision statements 3\bin\Debug\netcoreapp3.1\Decision statements 3.deps.json
+C:\Users\Satya Maddila\source\repos\Decision statements 3\bin\Debug\netcoreapp3.1\Decision statements 3.runtimeconfig.json
+C:\Users\Satya Maddila\source\repos\Decision statements 3\bin\Debug\netcoreapp3.1\Decision statements 3.runtimeconfig.dev.json
+C:\Users\Satya Maddila\source\repos\Decision statements 3\bin\Debug\netcoreapp3.1\Decision statements 3.dll
+C:\Users\Satya Maddila\source\repos\Decision statements 3\bin\Debug\netcoreapp3.1\Decision statements 3.pdb
+C:\Users\Satya Maddila\source\repos\Decision statements 3\obj\Debug\netcoreapp3.1\Decision statements 3.dll
+C:\Users\Satya Maddila\source\repos\Decision statements 3\obj\Debug\netcoreapp3.1\Decision statements 3.pdb
+C:\Users\Satya Maddila\source\repos\Decision statements 3\obj\Debug\netcoreapp3.1\Decision statements 3.genruntimeconfig.cache
