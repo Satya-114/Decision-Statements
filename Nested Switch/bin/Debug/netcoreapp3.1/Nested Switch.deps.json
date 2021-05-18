@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Nested Switch/1.0.0": {
+        "runtime": {
+          "Nested Switch.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Nested Switch/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
